@@ -22,7 +22,7 @@ Here a webapp to analyze the data:
 | --------- | -------- | -------- |
 | [`input`](input/) | Input/Output data of the initial processing and quality check. | 01_Downstream_Analysis_SCT.r|
 | [`output`](output/) | Output data of the initial clustering and integration. | 01_Downstream_Analysis_SCT.r \ 02_Doubletting.r \ 03_Markers_Detection.r|
-| [`output_reclust`](output_reclust/) | Output data of the reclustering and subset analyses. | 04_Relabel_And_InitialViz.r \ 05_DGE_Libra_LinearMixed.r \ 05_Markers_Detection_NoGlut.r \ 07_DGE_visualizations.R|
+| [`output_reclust`](output_reclust/) | Output data of the reclustering and subset analyses. | 04_Relabel_And_InitialViz.r \ 05_DGE_Libra_LinearMixed.r \ 05_Markers_Detection_NoGlut.r \ 07_DGE_visualizations.R \ 09_Database.R \ 10_Motif_Enrichment_scRNA.R|
 | [`output_Figure1`](output_Figure1/) | Output for figures and additional visualizations. | 07_DGE_visualizations.R \ 08_GeneOntology.R|
 | [`output_SCENIC`](output_SCENIC/) | Output data of the Regulome analyses. | 11_Prepare_Scenic.R \ 12_Analyze_Scenic.R|
 | [`output_hdWGCNA`](output_hdWGCNA/) | Output data of the Coexpression analyses. | 13_hdWGCNA.R|
