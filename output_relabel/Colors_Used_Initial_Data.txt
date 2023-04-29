@@ -1,0 +1,23 @@
+Cells	Colors
+1	Exc_L5_Il1rapl2	#E1EA53
+2	Exc_L4_Ntng1	#62E4D5
+3	Exc_L3_Calb1	#AEE3DD
+4	Exc_L2_Cux2	#D841DA
+5	Exc_L6_Foxp2	#8148E8
+6	Inh_Pvalb	#7BE24C
+7	Inh_Sst	#889B98
+8	Inh_Lamp5	#79BBE0
+9	Exc_L6_Fezf2	#6DE79A
+10	Inh_Vip	#D071D8
+11	ImmOligo_Bcas1	#E3C7DB
+12	Endo_Flt1	#DB9E85
+13	Oligo_Mobp	#DC5E92
+14	Astro_Gja1	#D8A2DD
+15	OPC_Vcan	#7884DD
+16	VLMC_Cped1	#897093
+17	VLMC_Slc7a11	#E2DFCC
+18	Astro_Id3	#D8E4A7
+19	Micro_C1qc	#B9E581
+20	Micro_Mrc1	#DDB55A
+21	Peri_Vtn	#E46A43
+22	Endo_Cldn5	#7AB184
