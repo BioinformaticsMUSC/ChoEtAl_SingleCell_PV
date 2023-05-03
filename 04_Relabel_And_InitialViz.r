@@ -112,7 +112,7 @@ write.table(colors_used, "output_relabel/Colors_Used_Initial_Data.txt",sep="\t",
 
 # Proportion by Genotype
 
-order <- c("Exc_L2_Cux2","Exc_L3_Calb1","Exc_L4_Ntng1","Exc_L5_Il1rapl2","Exc_L6_Foxp2","Exc_L6_Fezf2",
+order <- c("Exc_L2_Cux2","Exc_L3_Calb1","Exc_L3_Ntng1","Exc_L5_Il1rapl2","Exc_L6_Foxp2","Exc_L6_Fezf2",
   "Inh_Pvalb","Inh_Sst","Inh_Vip","Inh_Lamp5",
   "Astro_Gja1","Astro_Id3","Oligo_Mobp","ImmOligo_Bcas1","OPC_Vcan","Micro_C1qc","Micro_Mrc1",
   "Peri_Vtn","VLMC_Slc7a11","VLMC_Cped1","Endo_Flt1","Endo_Cldn5")

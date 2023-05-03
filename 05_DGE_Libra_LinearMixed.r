@@ -49,6 +49,13 @@ Map(function(data, nameofsheet){
 }, list, names(list))
 saveWorkbook(wb, file = "output_relabel/DGE_MAST/JennCho_Dge_FullStat.xlsx", overwrite = TRUE)
 
+openxlsx::write.xlsx(dge, 
+                     file = "output_relabel/DGE_MAST/JennCho_Dge_FullStat_2.xlsx", 
+                     colNames = TRUE,
+                     rowNames = FALSE, 
+                     borders = "columns",
+                     sheetName="Stats",
+                     overwrite=T)
 
 # Filter Sign
 dge_sign <- dge %>% filter(p_val_adj < 0.05 & abs(avg_logFC) > 0.2)
