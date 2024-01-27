@@ -9,7 +9,8 @@ This repository contains analysis code for the single nuclei RNA-seq project car
 
 If you use anything in this repository please cite the following publication:
 
-Pre-print URL: 
+Pre-print URL:  
+https://www.sciencedirect.com/science/article/pii/S2667174324000028
 
 ## Access the data with an app:
 
